@@ -14,7 +14,7 @@ const App = () => {
     <div>
       <h1>React start the JSX Topic</h1>
       <p>JSX, or JavaScript XML, is a syntax extension fo it easier to define the structure and appearance of user interfaces in React applications.</p>
-
+<p>JSX allows developers to write HTML-like code within JavaScript, making it easier to create and visualize the UI components.</p>
       
 
 
